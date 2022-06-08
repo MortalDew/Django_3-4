@@ -1,6 +1,6 @@
 from .base import *
 
-DEBUG = True
+DEBUG = false
 ALLOWED_HOSTS = ['127.0.0.1']
 
 INSTALLED_APPS += [
